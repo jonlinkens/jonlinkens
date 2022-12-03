@@ -1,8 +1,3 @@
-<p align="center">
-  <samp>
-    hey there 🌱
-  </samp>
-</p>
 
 <p align="center">
   <samp>
